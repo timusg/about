@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Home 
+permalink: /
 ---
 
 ## In nutshell 
