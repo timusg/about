@@ -7,7 +7,7 @@ permalink: /
 ## In nutshell 
 
 * 3x Founder/CTO, 2x Failures and 1x Profit/Exit to GOJEK Indonesia.
-* [Introvert](http://typelogic.com/intp.html), Philomath and Hobbyist
+* [Introvert](http://typelogic.com/intp.html){:target="_blank"}, Philomath and Hobbyist
 
 
 ## More about me
