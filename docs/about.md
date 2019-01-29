@@ -15,5 +15,3 @@ I have a special interest in fitness and nutrition. I practice different genre o
 I have a startup mindset, expertise in Infrastructure Automation and Tech Strategy. I believe in iterative evolution and excited about solving challenging problems by applying technology and analytical thinking.
 
 I love learning new things, with interests in electronics, music, travel, culture and upcoming technology.
-
-More on [Github](https://github.com/timusg){:target="_blank"}

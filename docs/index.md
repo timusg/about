@@ -4,15 +4,20 @@ title: Home
 permalink: /
 ---
 
-## In nutshell 
+### In nutshell 
 
 * 3x Founder/CTO, 2x Failures and 1x Profit/Exit to GOJEK Indonesia.
 * [Introvert](http://typelogic.com/intp.html){:target="_blank"}, Philomath and Hobbyist
 
 
-## More about me
+### More about me
+
 see my ["About"](/about) page
 
-## What I'm up to now
+### What I'm up to now
 
 see my ["Now"](/now) page
+
+#### Some links
+
+[code](https://github.com/timusg){:target="_blank"} [photos](/photos.html) [noises](/noises)

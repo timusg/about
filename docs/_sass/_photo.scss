@@ -1,0 +1,33 @@
+.gallery {
+  list-style: none;
+  padding: 0;
+  li {
+    list-style: none;
+    padding: 3px;
+    margin: 2px;
+    background: #7964655c;
+    display: inline-block;
+    width: 30%;
+    img {
+      width: 100%;
+    }
+
+    a {
+      background: #fff;
+      display: block;
+      padding: 5px;
+    }
+
+    a:hover {
+      background: #eee;
+    }
+  }
+}
+
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
