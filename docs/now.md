@@ -8,6 +8,18 @@ permalink: /now/
 
  *( This page is inspired by @sivers idea on keeping your priorities lean and having a now page for it. )*
 
+
+### Update MAR 2019:
+
+**In the IST time zone.**
+
+* Leading technology for the core platform.
+
+* Traning for the visual thinking.
+
+* Studying the applied bio hacking.
+
+
 ### Update DEC 2018:
 
 **In the IST time zone.**

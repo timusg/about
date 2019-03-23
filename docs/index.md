@@ -17,7 +17,3 @@ see my ["About"](/about) page
 ### What I'm up to now
 
 see my ["Now"](/now) page
-
-#### Some links
-
-[code](https://github.com/timusg){:target="_blank"} [photos](/photos.html) [noises](/noises)
